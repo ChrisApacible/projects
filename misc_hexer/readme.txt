@@ -1,13 +1,16 @@
-Program written by Black Box Fan on Nov 30, 2013
-
-Hexes models to others. Not guaranteed to work.
+Hexes tf2 models to others.
 
 Drag the files for the source model to "input" folder. Make sure they
 all have the same base name! 
 
 For example:
 
-football_helmet.dx80.vtxfootball_helmet.dx90.vtxfootball_helmet.mdlfootball_helmet.phyfootball_helmet.sw.vtxfootball_helmet.vvd 
+football_helmet.dx80.vtx
+football_helmet.dx90.vtx
+football_helmet.mdl
+football_helmet.phy
+football_helmet.sw.vtx
+football_helmet.vvd 
 
 Next, list the paths of all models you want to replace in "config.txt". 
 The paths should be relative to "models/" and should be in 
@@ -42,7 +45,12 @@ For example:
 
 will contain:
 
-ghostly_gibus_demo.dx80.vtxghostly_gibus_demo.dx90.vtxghostly_gibus_demo.mdlghostly_gibus_demo.phyghostly_gibus_demo.sw.vtxghostly_gibus_demo.vvd
+ghostly_gibus_demo.dx80.vtx
+ghostly_gibus_demo.dx90.vtx
+ghostly_gibus_demo.mdl
+ghostly_gibus_demo.phy
+ghostly_gibus_demo.sw.vtx
+ghostly_gibus_demo.vvd
 
 In this case, you can drag MiscHexerOutput_1 into "tf/custom/" and it 
 should work. You can rename MiscHexerOutput_1 to anything.
