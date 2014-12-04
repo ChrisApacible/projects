@@ -1,0 +1,8 @@
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\bin\Debug\First 2010 proj.exe
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\bin\Debug\First 2010 proj.pdb
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First 2010 proj.csprojResolveAssemblyReference.cache
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First_2010_proj.Form1.resources
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First_2010_proj.Properties.Resources.resources
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First 2010 proj.csproj.GenerateResource.Cache
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First 2010 proj.exe
+C:\Users\ChrisA\Downloads\First 2010 proj\First 2010 proj\First 2010 proj\obj\x86\Debug\First 2010 proj.pdb
